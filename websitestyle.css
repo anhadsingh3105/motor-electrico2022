@@ -1,0 +1,145 @@
+body{
+    background-color:aqua;
+    margin: 0;
+}
+.heading{
+    text-align: center;
+    text-shadow: 2px 2px red;
+    color:rgb(95, 94, 0) ;
+}
+color3{
+    color: rgb(4, 168, 168);
+}
+.name{
+    font-family: 'Tinos', serif;
+    font-size: 90px;
+    margin-bottom:30px ;
+}
+.a{
+    font-family: 'Tinos', serif;
+    font-size: 30px;
+   }
+.h2{
+    font-size: 50px;
+    color: rgb(41, 193, 244);
+    text-shadow: 2px 2px rgb(232, 69, 10) ;
+}
+.image{
+    text-align: center;
+    margin-top: 20px;
+   
+}
+
+.intro{
+text-align: center;
+margin-top: 40px;
+font-family: 'Montez', cursive ;
+font-size: 1.7rem;
+color: darkred ;
+}
+.about-myself{
+font-family: 'Montez', cursive ;
+font-size: 1.7rem;
+color:rgb(30, 16, 223) ;
+text-shadow:rgb(244, 166, 166);
+}
+.color{
+    color: darkred ;
+    text-decoration:underline rgb(237, 241, 0)  ;
+}
+.color2{
+    color: rgb(97, 9, 82);
+    text-decoration:underline darkred
+}
+/* .d1{
+    font-size: 100px;
+    background-color: red;
+}
+.d2{
+    font-size: 0.5em;
+    background-color: green;
+} */
+.hr{
+ height: 5px;
+ background-color: cyan;
+}
+.skill1{
+    color: rgb(40, 238, 245);
+    background-color: gold;
+    display:inline-block;
+
+}
+.s1{
+    display: flex;
+    
+    color: indigo;
+    background-color: lawngreen;
+    text-shadow: 2px 2px rgb(245, 231, 33);
+    align-items: center;
+    justify-content: center;
+    margin: 0 300px;
+    font-size: 20px;
+  margin: 40px;
+    
+}
+.s2{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin: 0 300px;
+    font-size: 20px;
+    color: rebeccapurple;
+    background-color: red;
+    margin: 40px;
+
+}
+.help{
+    color: teal;
+    background-color: yellow;
+    font-size: 50px;
+    text-shadow: 2px 2px red;
+    margin: 30px;
+
+}
+.progect{
+    color: tomato;
+   text-shadow: 2px  2px red;
+   font-size: 40px;
+}
+.contactme{
+   
+    
+    background-image: linear-gradient(to right, #bd0e0ef8, #fffb20);
+    font-weight:bold  ;
+    font-size: 2rem;
+    color: white;
+   text-shadow: 2px 2px red;
+   border: 2px solid yellow;
+   border-radius: 20px;
+}
+.contactme:hover{
+    color: #bd0e0ef8;
+    background-image: linear-gradient(to right, #0e28bdf8, #ff20cf);;
+}
+.hr:hover{
+    background-color: #8b0ebdf8;
+}
+.help:hover{
+    background-color: aqua;
+}
+.heading:hover{
+    background-color: blue;
+    color: red;
+}
+.name:hover{
+    color: rgb(95, 228, 113);
+    background-color: silver;
+}
+.footer{
+    background-color: lightskyblue;
+    margin-bottom: 0;
+    
+}
+.product{
+    color: #fffb20;
+}
